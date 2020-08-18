@@ -80,7 +80,7 @@ Model Checkpoint: temp-checkpoint.pth<br>
 
 ### Scores Graph 
 #### DDQN
-<img src="img/ddqn.png"/>
+<img src="img/dddqn.png"/>
 
 Saved Model: [ddqn.pt](ddqn.pt)
 
